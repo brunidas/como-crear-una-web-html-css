@@ -258,3 +258,30 @@ p {
     color: #414247;
     margin: 25px 0 45px 0;
 }
+
+/*  ---  SECCION BLOG  ---  */
+
+.blog {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.blog-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-1 {
+    padding: 15px 55px;
+}
+
+.blog-1 img {
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.blog-1 h3 {
+    font-size: 25px;
+    color: #323337;
+}
