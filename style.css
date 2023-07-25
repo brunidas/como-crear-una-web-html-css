@@ -285,3 +285,29 @@ p {
     font-size: 25px;
     color: #323337;
 }
+
+/*  ---  SECCION FOOTER  ---  */
+
+.footer{
+    padding: 100px 0; 
+    background-color: black;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link h3{
+    font-size: 18px;
+    color: #F9FAFC;
+    margin-bottom: 15px;
+}
+
+.link a {
+    font-size: 16px;
+    color: #c5c5c5;
+    display: block;
+    margin-bottom: 15px;
+    
+}
